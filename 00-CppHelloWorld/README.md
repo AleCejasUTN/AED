@@ -1,6 +1,6 @@
 # 00-HelloWorld
 
-Compilador: GCC 9.4.0
+Compilador: C++ 11.4.0
 
 Comando para compilar  por CLI:
-c++ hello.cpp -std=c++2a -Wall
+c++ hello.cpp -std=c++2b -Wall
